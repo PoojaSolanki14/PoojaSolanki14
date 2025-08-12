@@ -10,7 +10,7 @@
 ---
 
 ## 🎯 Career Objective
-> Motivated and detail-oriented **BCA & MSCIT graduate** with a passion for **mobile & web development**.  
+> Motivated and detail-oriented **BCA & MSCIT** with a passion for **mobile & web development**.  
 > Eager to apply academic knowledge, learn new technologies, and contribute to innovative projects.
 
 ---
@@ -43,13 +43,6 @@
 ## ​ Featured Projects
 - **Flutter Chat App** – Real-time chat using Firebase & Google Auth  
 - **Taxi Booking App** – Live route tracking with mapping APIs  
-
----
-
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoojaSolanki14&theme=radical" height="150" />
-</p>
 
 ---
 
