@@ -9,11 +9,18 @@
 
 ---
 
+## 🎯 Career Objective
+> Motivated and detail-oriented **BCA & MSCIT graduate** with a passion for **mobile & web development**.  
+> Eager to apply academic knowledge, learn new technologies, and contribute to innovative projects.
+
+---
+
 ## ​ About Me
-- 💻 Mobile & Web Developer  
-- 🎓 BCA & MSCIT Graduate 
+- 💻 Mobile & Web Developer (Fresher)  
+- 🎓 BCA & MSCIT Graduate  
 - 🚀 Passionate about building Flutter apps and web platforms  
-- 🌱 Always learning and upgrading my skills
+- 🌱 Currently exploring **full-stack development** & **cloud services**  
+- 🤝 Open to internships & full-time opportunities  
 
 ---
 
@@ -39,15 +46,14 @@
 
 ---
 
-## ​ GitHub Stats
+## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PoojaSolanki14&show_icons=true&theme=radical" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaSolanki14&layout=compact&theme=radical" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoojaSolanki14&theme=radical" height="150" />
 </p>
 
 ---
 
-##  Let's Connect
+## 💬 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/pooja-solanki-213690233/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -59,4 +65,5 @@
 
 ---
 
-⭐️ Thanks for stopping by — from **PoojaSolanki14**
+⭐ **Thanks for visiting my profile!**  
+💼 *I’m open to work — feel free to connect or drop a message.*
